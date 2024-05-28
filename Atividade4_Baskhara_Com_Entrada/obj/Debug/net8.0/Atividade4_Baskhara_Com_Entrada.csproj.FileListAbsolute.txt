@@ -1,0 +1,15 @@
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\bin\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.exe
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\bin\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.deps.json
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\bin\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.runtimeconfig.json
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\bin\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.dll
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\bin\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.pdb
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\obj\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\obj\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.AssemblyInfoInputs.cache
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\obj\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.AssemblyInfo.cs
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\obj\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\obj\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.sourcelink.json
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\obj\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.dll
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\obj\Debug\net8.0\refint\Atividade4_Baskhara_Com_Entrada.dll
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\obj\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.pdb
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\obj\Debug\net8.0\Atividade4_Baskhara_Com_Entrada.genruntimeconfig.cache
+C:\Users\User\Documents\csharp\Atividade4_Baskhara_Com_Entrada\obj\Debug\net8.0\ref\Atividade4_Baskhara_Com_Entrada.dll
