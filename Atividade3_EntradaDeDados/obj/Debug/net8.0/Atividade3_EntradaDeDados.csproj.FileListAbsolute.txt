@@ -1,0 +1,15 @@
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\bin\Debug\net8.0\Atividade3_EntradaDeDados.exe
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\bin\Debug\net8.0\Atividade3_EntradaDeDados.deps.json
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\bin\Debug\net8.0\Atividade3_EntradaDeDados.runtimeconfig.json
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\bin\Debug\net8.0\Atividade3_EntradaDeDados.dll
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\bin\Debug\net8.0\Atividade3_EntradaDeDados.pdb
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\obj\Debug\net8.0\Atividade3_EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\obj\Debug\net8.0\Atividade3_EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\obj\Debug\net8.0\Atividade3_EntradaDeDados.AssemblyInfo.cs
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\obj\Debug\net8.0\Atividade3_EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\obj\Debug\net8.0\Atividade3_EntradaDeDados.sourcelink.json
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\obj\Debug\net8.0\Atividade3_EntradaDeDados.dll
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\obj\Debug\net8.0\refint\Atividade3_EntradaDeDados.dll
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\obj\Debug\net8.0\Atividade3_EntradaDeDados.pdb
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\obj\Debug\net8.0\Atividade3_EntradaDeDados.genruntimeconfig.cache
+C:\Users\User\Documents\csharp\Atividade3_EntradaDeDados\obj\Debug\net8.0\ref\Atividade3_EntradaDeDados.dll
