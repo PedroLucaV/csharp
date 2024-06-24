@@ -1,0 +1,15 @@
+C:\Users\User\Documents\csharp\Exercicio 2 - While\bin\Debug\net8.0\Exercicio 2 - While.exe
+C:\Users\User\Documents\csharp\Exercicio 2 - While\bin\Debug\net8.0\Exercicio 2 - While.deps.json
+C:\Users\User\Documents\csharp\Exercicio 2 - While\bin\Debug\net8.0\Exercicio 2 - While.runtimeconfig.json
+C:\Users\User\Documents\csharp\Exercicio 2 - While\bin\Debug\net8.0\Exercicio 2 - While.dll
+C:\Users\User\Documents\csharp\Exercicio 2 - While\bin\Debug\net8.0\Exercicio 2 - While.pdb
+C:\Users\User\Documents\csharp\Exercicio 2 - While\obj\Debug\net8.0\Exercicio 2 - While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\csharp\Exercicio 2 - While\obj\Debug\net8.0\Exercicio 2 - While.AssemblyInfoInputs.cache
+C:\Users\User\Documents\csharp\Exercicio 2 - While\obj\Debug\net8.0\Exercicio 2 - While.AssemblyInfo.cs
+C:\Users\User\Documents\csharp\Exercicio 2 - While\obj\Debug\net8.0\Exercicio 2 - While.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\csharp\Exercicio 2 - While\obj\Debug\net8.0\Exercicio 2 - While.sourcelink.json
+C:\Users\User\Documents\csharp\Exercicio 2 - While\obj\Debug\net8.0\Exercicio 2 - While.dll
+C:\Users\User\Documents\csharp\Exercicio 2 - While\obj\Debug\net8.0\refint\Exercicio 2 - While.dll
+C:\Users\User\Documents\csharp\Exercicio 2 - While\obj\Debug\net8.0\Exercicio 2 - While.pdb
+C:\Users\User\Documents\csharp\Exercicio 2 - While\obj\Debug\net8.0\Exercicio 2 - While.genruntimeconfig.cache
+C:\Users\User\Documents\csharp\Exercicio 2 - While\obj\Debug\net8.0\ref\Exercicio 2 - While.dll

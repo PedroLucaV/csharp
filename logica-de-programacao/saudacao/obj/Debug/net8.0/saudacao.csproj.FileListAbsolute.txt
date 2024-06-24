@@ -1,0 +1,15 @@
+C:\Users\User\Documents\csharp\saudacao\bin\Debug\net8.0\saudacao.exe
+C:\Users\User\Documents\csharp\saudacao\bin\Debug\net8.0\saudacao.deps.json
+C:\Users\User\Documents\csharp\saudacao\bin\Debug\net8.0\saudacao.runtimeconfig.json
+C:\Users\User\Documents\csharp\saudacao\bin\Debug\net8.0\saudacao.dll
+C:\Users\User\Documents\csharp\saudacao\bin\Debug\net8.0\saudacao.pdb
+C:\Users\User\Documents\csharp\saudacao\obj\Debug\net8.0\saudacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\csharp\saudacao\obj\Debug\net8.0\saudacao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\csharp\saudacao\obj\Debug\net8.0\saudacao.AssemblyInfo.cs
+C:\Users\User\Documents\csharp\saudacao\obj\Debug\net8.0\saudacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\csharp\saudacao\obj\Debug\net8.0\saudacao.sourcelink.json
+C:\Users\User\Documents\csharp\saudacao\obj\Debug\net8.0\saudacao.dll
+C:\Users\User\Documents\csharp\saudacao\obj\Debug\net8.0\refint\saudacao.dll
+C:\Users\User\Documents\csharp\saudacao\obj\Debug\net8.0\saudacao.pdb
+C:\Users\User\Documents\csharp\saudacao\obj\Debug\net8.0\saudacao.genruntimeconfig.cache
+C:\Users\User\Documents\csharp\saudacao\obj\Debug\net8.0\ref\saudacao.dll
