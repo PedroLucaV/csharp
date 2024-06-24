@@ -1,0 +1,15 @@
+C:\Users\User\Documents\csharp\trianguloEmClasse\bin\Debug\net8.0\trianguloEmClasse.exe
+C:\Users\User\Documents\csharp\trianguloEmClasse\bin\Debug\net8.0\trianguloEmClasse.deps.json
+C:\Users\User\Documents\csharp\trianguloEmClasse\bin\Debug\net8.0\trianguloEmClasse.runtimeconfig.json
+C:\Users\User\Documents\csharp\trianguloEmClasse\bin\Debug\net8.0\trianguloEmClasse.dll
+C:\Users\User\Documents\csharp\trianguloEmClasse\bin\Debug\net8.0\trianguloEmClasse.pdb
+C:\Users\User\Documents\csharp\trianguloEmClasse\obj\Debug\net8.0\trianguloEmClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\csharp\trianguloEmClasse\obj\Debug\net8.0\trianguloEmClasse.AssemblyInfoInputs.cache
+C:\Users\User\Documents\csharp\trianguloEmClasse\obj\Debug\net8.0\trianguloEmClasse.AssemblyInfo.cs
+C:\Users\User\Documents\csharp\trianguloEmClasse\obj\Debug\net8.0\trianguloEmClasse.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\csharp\trianguloEmClasse\obj\Debug\net8.0\trianguloEmClasse.sourcelink.json
+C:\Users\User\Documents\csharp\trianguloEmClasse\obj\Debug\net8.0\trianguloEmClasse.dll
+C:\Users\User\Documents\csharp\trianguloEmClasse\obj\Debug\net8.0\refint\trianguloEmClasse.dll
+C:\Users\User\Documents\csharp\trianguloEmClasse\obj\Debug\net8.0\trianguloEmClasse.pdb
+C:\Users\User\Documents\csharp\trianguloEmClasse\obj\Debug\net8.0\trianguloEmClasse.genruntimeconfig.cache
+C:\Users\User\Documents\csharp\trianguloEmClasse\obj\Debug\net8.0\ref\trianguloEmClasse.dll

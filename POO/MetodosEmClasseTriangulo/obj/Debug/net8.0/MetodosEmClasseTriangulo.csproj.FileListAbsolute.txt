@@ -1,0 +1,15 @@
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\bin\Debug\net8.0\MetodosEmClasseTriangulo.exe
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\bin\Debug\net8.0\MetodosEmClasseTriangulo.deps.json
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\bin\Debug\net8.0\MetodosEmClasseTriangulo.runtimeconfig.json
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\bin\Debug\net8.0\MetodosEmClasseTriangulo.dll
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\bin\Debug\net8.0\MetodosEmClasseTriangulo.pdb
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\obj\Debug\net8.0\MetodosEmClasseTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\obj\Debug\net8.0\MetodosEmClasseTriangulo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\obj\Debug\net8.0\MetodosEmClasseTriangulo.AssemblyInfo.cs
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\obj\Debug\net8.0\MetodosEmClasseTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\obj\Debug\net8.0\MetodosEmClasseTriangulo.sourcelink.json
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\obj\Debug\net8.0\MetodosEmClasseTriangulo.dll
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\obj\Debug\net8.0\refint\MetodosEmClasseTriangulo.dll
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\obj\Debug\net8.0\MetodosEmClasseTriangulo.pdb
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\obj\Debug\net8.0\MetodosEmClasseTriangulo.genruntimeconfig.cache
+C:\Users\User\Documents\csharp\MetodosEmClasseTriangulo\obj\Debug\net8.0\ref\MetodosEmClasseTriangulo.dll

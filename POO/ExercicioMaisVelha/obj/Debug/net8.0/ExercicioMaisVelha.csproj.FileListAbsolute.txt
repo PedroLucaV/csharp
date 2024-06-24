@@ -1,0 +1,15 @@
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\obj\Debug\net8.0\ExercicioMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\obj\Debug\net8.0\ExercicioMaisVelha.AssemblyInfoInputs.cache
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\obj\Debug\net8.0\ExercicioMaisVelha.AssemblyInfo.cs
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\obj\Debug\net8.0\ExercicioMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\obj\Debug\net8.0\ExercicioMaisVelha.sourcelink.json
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\bin\Debug\net8.0\ExercicioMaisVelha.exe
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\bin\Debug\net8.0\ExercicioMaisVelha.deps.json
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\bin\Debug\net8.0\ExercicioMaisVelha.runtimeconfig.json
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\bin\Debug\net8.0\ExercicioMaisVelha.dll
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\bin\Debug\net8.0\ExercicioMaisVelha.pdb
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\obj\Debug\net8.0\ExercicioMaisVelha.dll
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\obj\Debug\net8.0\refint\ExercicioMaisVelha.dll
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\obj\Debug\net8.0\ExercicioMaisVelha.pdb
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\obj\Debug\net8.0\ExercicioMaisVelha.genruntimeconfig.cache
+C:\Users\User\Documents\csharp\ExercicioMaisVelha\obj\Debug\net8.0\ref\ExercicioMaisVelha.dll
