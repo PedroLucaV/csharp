@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\csharp\\POO\\ExercicioDolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72FB06FB-B709-45AA-851D-6099C70770D9}|ExercicioDolar.csproj|c:\\users\\user\\documents\\csharp\\poo\\exerciciodolar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FB06FB-B709-45AA-851D-6099C70770D9}|ExercicioDolar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FB06FB-B709-45AA-851D-6099C70770D9}|ExercicioDolar.csproj|c:\\users\\user\\documents\\csharp\\poo\\exerciciodolar\\conversordolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FB06FB-B709-45AA-851D-6099C70770D9}|ExercicioDolar.csproj|solutionrelative:conversordolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorDolar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\csharp\\POO\\ExercicioDolar\\ConversorDolar.cs",
+              "RelativeDocumentMoniker": "ConversorDolar.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\csharp\\POO\\ExercicioDolar\\ConversorDolar.cs",
+              "RelativeToolTip": "ConversorDolar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:58:57.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\csharp\\POO\\ExercicioDolar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\csharp\\POO\\ExercicioDolar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:57:56.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

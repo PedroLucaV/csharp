@@ -1,0 +1,15 @@
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\bin\Debug\net8.0\AtividadeNotas.exe
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\bin\Debug\net8.0\AtividadeNotas.deps.json
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\bin\Debug\net8.0\AtividadeNotas.runtimeconfig.json
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\bin\Debug\net8.0\AtividadeNotas.dll
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\bin\Debug\net8.0\AtividadeNotas.pdb
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\obj\Debug\net8.0\AtividadeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\obj\Debug\net8.0\AtividadeNotas.AssemblyInfoInputs.cache
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\obj\Debug\net8.0\AtividadeNotas.AssemblyInfo.cs
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\obj\Debug\net8.0\AtividadeNotas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\obj\Debug\net8.0\AtividadeNotas.sourcelink.json
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\obj\Debug\net8.0\AtividadeNotas.dll
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\obj\Debug\net8.0\refint\AtividadeNotas.dll
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\obj\Debug\net8.0\AtividadeNotas.pdb
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\obj\Debug\net8.0\AtividadeNotas.genruntimeconfig.cache
+C:\Users\User\Documents\csharp\POO\AtividadeNotas\obj\Debug\net8.0\ref\AtividadeNotas.dll

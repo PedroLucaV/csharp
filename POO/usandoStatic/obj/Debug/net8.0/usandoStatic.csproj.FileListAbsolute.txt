@@ -1,0 +1,15 @@
+C:\Users\User\Documents\csharp\POO\usandoStatic\bin\Debug\net8.0\usandoStatic.exe
+C:\Users\User\Documents\csharp\POO\usandoStatic\bin\Debug\net8.0\usandoStatic.deps.json
+C:\Users\User\Documents\csharp\POO\usandoStatic\bin\Debug\net8.0\usandoStatic.runtimeconfig.json
+C:\Users\User\Documents\csharp\POO\usandoStatic\bin\Debug\net8.0\usandoStatic.dll
+C:\Users\User\Documents\csharp\POO\usandoStatic\bin\Debug\net8.0\usandoStatic.pdb
+C:\Users\User\Documents\csharp\POO\usandoStatic\obj\Debug\net8.0\usandoStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\csharp\POO\usandoStatic\obj\Debug\net8.0\usandoStatic.AssemblyInfoInputs.cache
+C:\Users\User\Documents\csharp\POO\usandoStatic\obj\Debug\net8.0\usandoStatic.AssemblyInfo.cs
+C:\Users\User\Documents\csharp\POO\usandoStatic\obj\Debug\net8.0\usandoStatic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\csharp\POO\usandoStatic\obj\Debug\net8.0\usandoStatic.sourcelink.json
+C:\Users\User\Documents\csharp\POO\usandoStatic\obj\Debug\net8.0\usandoStatic.dll
+C:\Users\User\Documents\csharp\POO\usandoStatic\obj\Debug\net8.0\refint\usandoStatic.dll
+C:\Users\User\Documents\csharp\POO\usandoStatic\obj\Debug\net8.0\usandoStatic.pdb
+C:\Users\User\Documents\csharp\POO\usandoStatic\obj\Debug\net8.0\usandoStatic.genruntimeconfig.cache
+C:\Users\User\Documents\csharp\POO\usandoStatic\obj\Debug\net8.0\ref\usandoStatic.dll
